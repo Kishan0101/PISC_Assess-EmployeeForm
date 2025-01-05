@@ -39,37 +39,6 @@ Ensure you have the following installed:
 git clone https://github.com/your-username/employee-form-management.git
 cd employee-form-management
 ```
-
-### Install Dependencies
-
-1. Navigate to the `client` folder and install dependencies:
-   ```bash
-   cd client
-   npm install
-   ```
-
-2. Navigate to the `server` folder and install dependencies:
-   ```bash
-   cd ../server
-   npm install
-   ```
-
-### Start the Application
-
-1. Start the backend server:
-   ```bash
-   cd server
-   npm start
-   ```
-
-2. Start the React frontend:
-   ```bash
-   cd ../client
-   npm start
-   ```
-
----
-
 ## Project Structure
 
 ```
